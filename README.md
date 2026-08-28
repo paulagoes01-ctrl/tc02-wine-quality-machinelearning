@@ -104,7 +104,7 @@ Também foram utilizados:
 
 ## Modelos
 
-### K-Nearest Neighbors — KNN
+### K-Nearest Neighbors - KNN
 
 O primeiro algoritmo utilizado foi o **K-Nearest Neighbors**, configurado com:
 
@@ -247,10 +247,10 @@ No geral, ambos os modelos se mostraram adequados para o problema de classifica�
 ---
 
 ## Equipe
-Ingrid Xavier 
-Patricia Ferreira 
-Paula Goés
-Suellen Moraes
+- Ingrid Xavier 
+- Patricia Ferreira 
+- Paula Goés
+- Suellen Moraes
 
 ## Referência do Dataset
 
