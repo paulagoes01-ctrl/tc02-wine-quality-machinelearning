@@ -248,11 +248,11 @@ No geral, ambos os modelos se mostraram adequados para o problema de classifica�
 ---
 
 ## Equipe
-- Ingrid Xavier 
-- Patrícia Faustino
-- Paula Góes
-- Suellen Moraes
+- Ingrid Xavier: modelo KNN
+- Patrícia Faustino: relatório executivo e vídeo apresentação
+- Paula Góes: comparativo modelos
+- Suellen Moraes: modelo Regressão Logística
 
 ## Referência do Dataset
 
-HASSAN, Yasser. **Wine Quality Dataset**. Kaggle, 2022. Disponível em: Kaggle — Wine Quality Dataset. Acesso em: 28 ago. 2026.
+HASSAN, Yasser. **[Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)**. Kaggle, 2022. Acesso em: ago. 2026.
