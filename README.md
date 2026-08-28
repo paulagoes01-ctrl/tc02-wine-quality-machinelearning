@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido como parte do Tech Challenge - Fase 2, com o objetivo de construir uma pipeline de análise e Machine Learning capaz de classificar vinhos de acordo com sua qualidade a partir de características físico-químicas.
 
 A variável original `quality` foi transformada em uma classificação binária:
-
+ 
 * **0 — Baixa/Média Qualidade:** `quality < 7`
 * **1 — Alta Qualidade:** `quality >= 7`
 
