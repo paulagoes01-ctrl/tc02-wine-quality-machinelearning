@@ -6,8 +6,8 @@ Este projeto foi desenvolvido como parte do Tech Challenge - Fase 2, com o objet
 
 A variável original `quality` foi transformada em uma classificação binária:
  
-* **0 — Baixa/Média Qualidade:** `quality < 7`
-* **1 — Alta Qualidade:** `quality >= 7`
+* **0 - Baixa/Média Qualidade:** `quality < 7`
+* **1 - Alta Qualidade:** `quality >= 7`
 
 A partir da análise exploratória e do pré-processamento dos dados, foram desenvolvidos e comparados dois modelos de classificação: **K-Nearest Neighbors (KNN)** e **Regressão Logística**.
 
