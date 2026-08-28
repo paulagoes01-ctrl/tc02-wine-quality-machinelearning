@@ -221,13 +221,14 @@ wine-quality-classification/
 │   └── WineQT.csv
 │
 ├── notebooks/
-│   ├── EDA_Wine_Quality.ipynb
-│   ├── KNN.ipynb
-│   ├── Regressao_Logistica.ipynb
-│   └── Comparacao_Modelos.ipynb
+│   ├── Modelo de Classificação KNN - Wine.ipynb
+│   └── Modelo de Classificação Regressão Logística - Wine.ipynb
 │
 ├── results/
-│   └── gráficos e resultados dos modelos
+│   └── Comparativo modelos KNN x Regressão.ipynb
+│
+├── src/
+│   └── WineDataset EDA.ipynb
 │
 ├── requirements.txt
 │
@@ -248,8 +249,8 @@ No geral, ambos os modelos se mostraram adequados para o problema de classifica�
 
 ## Equipe
 - Ingrid Xavier 
-- Patricia Ferreira 
-- Paula Goés
+- Patrícia Faustino
+- Paula Góes
 - Suellen Moraes
 
 ## Referência do Dataset
